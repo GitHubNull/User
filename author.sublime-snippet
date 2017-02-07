@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+--[[
+@author:GitHubNUll
+@github:GitHubNUll
+@Email:641570479@qq.com
+@version:$1
+@DateTime:$2
+@Description:$3
+--]]
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>@author</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.lua</scope>
+</snippet>

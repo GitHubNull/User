@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abaqus",
+		"AutoFileName",
+		"Colorcoder",
+		"ColorPick",
+		"ColorPicker",
+		"CTags",
+		"Gist",
+		"Git",
+		"Github Tools",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements"
+	]
+}

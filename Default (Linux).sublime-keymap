@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+,"], "command": "write_blog" },
+	{ "keys": ["ctrl+shift+."], "command": "add_info" },
+	{ "keys": ["ctrl+shift+alt+m"], "command": "add_comment" },
+]
